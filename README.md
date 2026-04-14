@@ -29,3 +29,8 @@ For anyone working in AI or data, understanding these trade offs is part of the 
 ## Project format
 
 This work was completed as part of a team presentation. The final deliverable includes slides and a recorded presentation where we discuss ethical principles, stakeholder impacts, and individual perspectives.
+
+## ## Presentation
+
+Slides: https://drive.google.com/file/d/15mI62Lgyte7p4o7bps4RTfFDa9zuNOb2/view?usp=drive_link
+Video:(https://youtu.be/1x0Y6fvR2dM)
